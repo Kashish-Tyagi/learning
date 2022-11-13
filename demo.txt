@@ -1,2 +1,3 @@
 learn how to use git 
 and now i learn somthing in git 
+and now i use git
